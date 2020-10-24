@@ -2,7 +2,7 @@
 We propose a novel network named Class Similarity Network, and we show its application in coding RNA (mRNA) and long non-coding RNA (lncRNA) classification.
 
 The overview of the Class Similarity Network is illustrated in Figure 1. 
-![alt text](https://github.com/yuuuuzhang/Class-Similarity-Network/blob/main/fig1.pdf)
+![alt text](https://github.com/yuuuuzhang/Class-Similarity-Network/blob/main/fig1.png)
 figure 1. An overview of the Class Similarity Network.
 
 
