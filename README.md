@@ -3,7 +3,7 @@ We propose a novel network named Class Similarity Network, and we show its appli
 
 The overview of the Class Similarity Network is illustrated in Figure 1. 
 ![alt text](https://github.com/yuuuuzhang/Class-Similarity-Network/blob/main/fig1.png)
-figure 1. An overview of the Class Similarity Network.
+Figure 1. An overview of the Class Similarity Network. Class Similarity Network contains three modules: Class Similarity Measurement module, Fully Connected module, and Decision module.
 
 
 ## EXPLANATION
