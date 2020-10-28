@@ -45,7 +45,7 @@ argparse
 ### Installation and run:
 ```
 git clone https://github.com/yuuuuzhang/Class-Similarity-Network.git
-cd csn_RNA
+cd Class-Similarity-Network
 ```
 
 Input: require .fa or .fasta file
