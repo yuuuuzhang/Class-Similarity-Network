@@ -59,7 +59,7 @@ for example:
 python code/csv_RNA.py -input input/test2_lncrna.fa -output output/test2_lncrna.csv
 
 ```
-![alt text](https://github.com/yuuuuzhang/Class-Similarity-Network/blob/main/fig2.pdf)
+![alt text](https://github.com/yuuuuzhang/Class-Similarity-Network/blob/main/fig2.png)
 Figure 2. Usage of this program.
 
 More details can be found from [1]
